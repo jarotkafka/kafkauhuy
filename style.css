@@ -1,0 +1,25 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link:hover{
+    color: #fb6a27;
+    transition: color 0.25s;
+}
+
+.profesi{
+    margin-top: 50px;
+}
+
+.foter{
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+
+i{
+    font-size: 30px;
+    margin-right: 10px;
+
+}
